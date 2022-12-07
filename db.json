@@ -1,0 +1,52 @@
+{
+  "restaurants": [
+  {
+  "id":1,
+  "name":"Gary Danko",
+  "cuisine": "Italian",
+  "bestItem":"Pasta",
+  "rating":"⭐️⭐️⭐️⭐️",
+  "location":"San Francisco",
+  "img":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/e/d/p29410-15743151555dd62493bdda1.jpg?tr=tr:n-xlarge"
+
+},
+{
+  "id":2,
+  "name":"ITC Grand Chole",
+  "cuisine": "Indian",
+  "bestItem":"Dosa",
+  "rating":"⭐️⭐️⭐️⭐️⭐️",
+  "location":"California",
+  "img":"https://img.freepik.com/premium-photo/cozy-restaurant-with-people-waiter_175935-230.jpg?w=2000"
+  
+},
+{
+  "id":3,
+  "name":"Pai Vista",
+  "cuisine": "American",
+  "bestItem":"Hot Dog",
+  "rating":"⭐️⭐️⭐️",
+  "location":"Connecticut",
+  "img":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/f/h/p29410-15743151465dd6248a9c73c.jpg?tr=tr:n-xlarge"
+  
+},
+{
+  "id":4,
+  "name":"Raddison Blue",
+  "cuisine": "Indian",
+  "bestItem":"Biryani",
+  "rating":"⭐️⭐️⭐️⭐️",
+  "location":"LA",
+  "img":"https://thumbs.dreamstime.com/b/cozy-restaurant-tables-ready-dinner-39875776.jpg"
+
+},
+{
+  "id":5,
+  "name":"Oriole",
+  "cuisine": "American",
+  "bestItem":"Cheese Burger",
+  "rating":"⭐️⭐️⭐️⭐️⭐️",
+  "location":"Chicago",
+  "img":"https://img.freepik.com/premium-photo/cozy-restaurant-with-people-waiter_175935-230.jpg?w=2000"
+
+}]}
